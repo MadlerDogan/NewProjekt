@@ -1,2 +1,4 @@
-package avukatDosyaTakibi;public class Runner {
+package avukatDosyaTakibi;
+
+public class Runner {
 }

@@ -1,7 +1,4 @@
-package hotel.YeniHotel;
-
-import Newhotel.Hotel;
-import avukatDosyaTakibi.Sanik;
+package YeniHotel;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,0 +1,16 @@
+Otel yönetim projesi
+Otelin tek kişi, çift kişi ve Suiti var.
+odalara kayıt için isim, soy isim, yaş ve cinsiyet girilecek
+Kayıtlar oda numarasına göre oluşturulacak.
+Tek kişilik odalar 111-119 arasında sıralanmış. Çift kişilik odalar 211-219 arasında sıranmış. Suit odalar 311-319 arasında sıralanmış.
+Oda numarası ve müşteri bilgileri kayıt sırasında oluşturulacak.
+
+tek kişilik odaya aynı anda iki kişi kaydı mümkün değil
+cift kişilik odaya tek kişilik kayıt mümkün ama 2 den fazla kayıt mümkün değil
+suit odalara 4 kişiye kadar kayıt mümkün.
+
+bir oda numarasına kayıt yapıldığında bu oda numarasına ikinci kez kayıt mümkün olmamalı.
+
+Otel giderleri için masraf girişi mümkün.
+masraf olarak tv, buzdolabı, internet, ütü ve kiralık kasa var.
+

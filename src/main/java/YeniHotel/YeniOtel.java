@@ -1,4 +1,4 @@
-package hotel.YeniHotel;
+package YeniHotel;
 
 public abstract class YeniOtel {
     String musteriAdi;
